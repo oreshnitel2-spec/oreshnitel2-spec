@@ -36,14 +36,14 @@
 
 
 ### Stellar Burgers
-- API-тесты: https://github.com/oreshnitel2-spec/Diplom_2
-- UI-тесты: https://github.com/oreshnitel2-spec/Diplom_3
+- API-тесты: https://github.com/oreshnitel2-spec/Diplom_2/tree/develop2
+- UI-тесты: https://github.com/oreshnitel2-spec/Diplom_3/tree/develop3
 
 ### Яндекс Самокат
-- UI-тестирование (Page Object Model): https://github.com/oreshnitel2-spec/Sprint_6
+- UI-тестирование (Page Object Model): https://github.com/oreshnitel2-spec/Sprint_6/tree/develop
 
 ### Яндекс Самокат API
-- API-тестирование (Requests + Pytest): https://github.com/oreshnitel2-spec/Sprint_7
+- API-тестирование (Requests + Pytest): https://github.com/oreshnitel2-spec/Sprint_7/tree/develop
 
 ## 📫 Контакты
 
